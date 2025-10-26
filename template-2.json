@@ -1,0 +1,91 @@
+{
+  "audioAssets" : [
+    {
+      "duration" : 299,
+      "id" : "minnalvala",
+      "mediaType" : "audio",
+      "trimEnd" : 100,
+      "trimStart" : 0,
+      "volume" : 1
+    },
+    {
+      "duration" : 355,
+      "id" : "kanmani",
+      "mediaType" : "audio",
+      "trimEnd" : 100,
+      "trimStart" : 0,
+      "volume" : 1
+    }
+  ],
+  "backgroundAudioAssets" : [
+    {
+      "duration" : 27,
+      "id" : "onam",
+      "mediaType" : "audio",
+      "trimEnd" : 80,
+      "trimStart" : 0,
+      "volume" : 1
+    }
+  ],
+  "id" : "44FE13BC-AD99-4CAE-BB0D-9A6A0AE547A1",
+  "mediaAssets" : [
+    {
+      "brightness" : 0,
+      "contrast" : 1,
+      "duration" : 50,
+      "id" : "44C755DF-A5E9-4DDD-947B-23C85E889856",
+      "isFlippedHorizontal" : false,
+      "isFlippedVertical" : false,
+      "mediaType" : "video",
+      "musicVolume" : 0.5,
+      "rotation" : 0,
+      "saturation" : 1,
+      "selectedEffect" : "None",
+      "selectedFilter" : "Warm",
+      "speed" : 1,
+      "trimEnd" : 9.416728916644438,
+      "trimStart" : 6.533333206176756,
+      "volume" : 0.08006042
+    },
+    {
+      "brightness" : 0,
+      "contrast" : 1,
+      "duration" : 40,
+      "id" : "44115EEC-CB6A-4F14-84ED-165B6F483292",
+      "isFlippedHorizontal" : false,
+      "isFlippedVertical" : false,
+      "mediaType" : "video",
+      "musicVolume" : 0.5,
+      "rotation" : 0,
+      "saturation" : 1,
+      "selectedEffect" : "None",
+      "selectedFilter" : "None",
+      "speed" : 1,
+      "trimEnd" : 29.218850338652114,
+      "trimStart" : 12.798016751005626,
+      "volume" : 1
+    },
+    {
+      "brightness" : 0,
+      "contrast" : 1,
+      "duration" : 1373,
+      "id" : "448B9E55-DF1A-48DC-8D20-B311E4BC4E6B",
+      "isFlippedHorizontal" : false,
+      "isFlippedVertical" : false,
+      "mediaType" : "video",
+      "musicVolume" : 0.5,
+      "rotation" : 0,
+      "saturation" : 1,
+      "selectedEffect" : "None",
+      "selectedFilter" : "None",
+      "speed" : 1,
+      "trimEnd" : 30,
+      "trimStart" : 0,
+      "volume" : 1
+    }
+  ],
+  "textOverlays" : [
+
+  ],
+  "title" : ""
+}
